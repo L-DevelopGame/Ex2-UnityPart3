@@ -8,5 +8,4 @@
 
 ![My Picture](https://i.ibb.co/2y37XYK/EX2PART3.jpg)
 
-
-לינק למשחק : https://liron02319.itch.io/ex2-unitypart3
+You can try the game on [ClickHere](https://liron02319.itch.io/ex2-unitypart3)
